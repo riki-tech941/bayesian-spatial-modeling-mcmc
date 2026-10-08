@@ -17,11 +17,6 @@ The project is split into two parts:
 - `report/`: PDF report with mathematical derivations, trace plots, and results.
 - `data/`: input datasets (`data\\\_dogs2.csv`, `grid.csv`, `data\\\_for\\\_homework2.RData`).
 
-## Requirements
-
-R with the following libraries:
-`mvtnorm`, `MCMCpack`, `coda`, `ggplot2`, `gridExtra`, `viridis`.
-
 ## Author
 
 Riccardo Siervo
